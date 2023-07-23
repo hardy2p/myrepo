@@ -1,3 +1,5 @@
 make sure to link the local repo to main repo via use of git remote command.
 
 This is a dummy change to the main file.
+
+New change made.
