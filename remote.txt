@@ -1,0 +1,1 @@
+make sure to link the local repo to main repo via use of git remote command.
